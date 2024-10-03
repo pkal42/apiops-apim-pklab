@@ -1,8 +1,0 @@
-{
-  "properties": {
-    "scope": "/subscriptions/3d905540-e417-4f23-b052-56bdc36065ad/resourceGroups/apim-pklab-rg/providers/Microsoft.ApiManagement/service/apim-pklab/products/starter",
-    "allowTracing": false,
-    "ownerId": "/subscriptions/3d905540-e417-4f23-b052-56bdc36065ad/resourceGroups/apim-pklab-rg/providers/Microsoft.ApiManagement/service/apim-pklab/users/1",
-    "state": "active"
-  }
-}
