@@ -29,6 +29,7 @@
 		<xml-to-json kind="direct" apply="always" consider-accept-header="false" />
 		<set-header name="x-aspnet-version" exists-action="delete" />
 		<set-header name="x-powered-by" exists-action="delete" />
+		<set-header name="newheader" exists-action="append" />
 	</outbound>
 	<!-- Handle exceptions and customize error responses  -->
 	<on-error>
