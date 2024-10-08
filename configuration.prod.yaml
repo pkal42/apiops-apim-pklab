@@ -4,5 +4,5 @@ namedValues:
     properties:
       displayName: KVSecret1
       keyVault:
-        identityClientId: apim-pklab-prod-kv
+        identityClientId: e29c7cd1-3a0a-4411-8790-0ea003f76a42
         secretIdentifier: https://apim-pklab-prod-kv.vault.azure.net/secrets/KVSecret1
