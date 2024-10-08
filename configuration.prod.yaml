@@ -1,1 +1,8 @@
 apimServiceName: apim-pklab-prod
+namedValues:
+  - name: KVSecret1
+    properties:
+      displayName: KVSecret1
+      keyVault:
+        identityClientId: apim-pklab-prod-kv
+        secretIdentifier: https://apim-pklab-prod-kv.vault.azure.net/secrets/KVSecret1
