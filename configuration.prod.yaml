@@ -1,6 +1,6 @@
 apimServiceName: apim-pklab-prod
 namedValues:
-- name: Secret1
+  - name: Secret1
     properties:
       displayName: Secret1
       secret: true
