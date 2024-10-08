@@ -3,7 +3,8 @@ namedValues:
 - name: Secret1
     properties:
       displayName: Secret1
-      value: "{#Secret1ProdValue#}"
+      secret: true
+      value: "Secret1ProdValue#"
   - name: KVSecret1
     properties:
       displayName: KVSecret1
