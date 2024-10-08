@@ -1,0 +1,21 @@
+{
+  "properties": {
+    "path": "sw",
+    "apiRevision": "1",
+    "apiVersion": "v1",
+    "apiVersionSetId": "/subscriptions/3d905540-e417-4f23-b052-56bdc36065ad/resourceGroups/apim-pklab-rg/providers/Microsoft.ApiManagement/service/apim-pklab/apiVersionSets/66fc93e674510e150d81c2c2",
+    "authenticationSettings": {},
+    "description": "",
+    "isCurrent": true,
+    "displayName": "Star Wars",
+    "protocols": [
+      "https"
+    ],
+    "serviceUrl": "https://swapi.dev/api",
+    "subscriptionKeyParameterNames": {
+      "header": "Ocp-Apim-Subscription-Key",
+      "query": "subscription-key"
+    },
+    "subscriptionRequired": true
+  }
+}
